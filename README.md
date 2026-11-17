@@ -10,11 +10,15 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 [![Release](https://img.shields.io/github/v/release/Frost819/newBV?label=release&logo=github)](../../releases)
 
-**newBV 不支持在中国大陆地区内使用，如有相关使用需求请使用 [云视听小电视](https://app.bilibili.com)**
+**本仓库为个人维护副本，不设置中国大陆地区使用限制。**
 
 </div>
 
 ---
+
+本副本基于 [Frost819/newBV](https://github.com/Frost819/newBV)，保留上游提交历史及 MIT 许可证。
+经核查，当前上游源码未发现针对中国大陆用户的客户端地区拦截；本次修改移除了 README 中的地区使用限制声明。
+实际内容可用性仍取决于哔哩哔哩服务端的账号权限、内容授权和网络情况。
 
 newBV 是基于 [BV](https://github.com/aaa1115910/bv) 重构的 [哔哩哔哩](https://www.bilibili.com) 第三方 `Android TV`
 客户端，使用 `Jetpack Compose` 开发，支持 `Android 5.0+`（minSdk 21）。
